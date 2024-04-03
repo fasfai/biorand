@@ -6155,11 +6155,31 @@
       "items": [
         {
           "id": 4,
+          "globalId": 34,
+          "type": 84,
+          "amount": 1,
+          "scenario": 0
+        },
+        {
+          "id": 4,
+          "globalId": 34,
+          "type": 84,
+          "amount": 1,
           "priority": "low",
           "scenario": 1
         },
         {
           "id": 5,
+          "globalId": 39,
+          "type": 85,
+          "amount": 1,
+          "scenario": 0
+        },
+        {
+          "id": 5,
+          "globalId": 39,
+          "type": 85,
+          "amount": 1,
           "priority": "low",
           "scenario": 1
         }
@@ -6180,12 +6200,6 @@
         {
           "target": "701",
           "randomize": false
-        }
-      ],
-      "items": [
-        {
-          "id": 5,
-          "type": 0
         }
       ],
       "enemies": []
@@ -6261,6 +6275,20 @@
           "target": "703",
           "randomize": false,
           "scenario": 1
+        }
+      ],
+      "items": [
+        {
+          "id": 2,
+          "globalId": 78,
+          "type": 30,
+          "amount": 3
+        },
+        {
+          "id": 3,
+          "globalId": 79,
+          "type": 99,
+          "amount": 1
         }
       ],
       "enemies": [
